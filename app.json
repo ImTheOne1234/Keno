@@ -1,7 +1,7 @@
 {
-	"name": "Ultraviolet App",
+	"name": "Keno App",
 	"description": "Node.js Ultraviolet instance",
-	"repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
+	"repository": "https://github.com/ImTheOne1234/Keno/",
 	"logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-	"keywords": ["tomp", "ultraviolet"]
+	"keywords": ["tomp", "ultraviolet", "keno"]
 }
